@@ -1,2 +1,3 @@
 # demo
-first git repository
+first git repository.
+Author-Maanav Rajan
